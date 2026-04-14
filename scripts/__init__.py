@@ -1,1 +1,1 @@
-
+# Snake generator package
